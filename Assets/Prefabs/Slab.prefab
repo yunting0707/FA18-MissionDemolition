@@ -23,7 +23,6 @@ GameObject:
   - component: {fileID: 65919912739816384}
   - component: {fileID: 23269364031220260}
   - component: {fileID: 54864024769574694}
-  - component: {fileID: 114524104246273496}
   - component: {fileID: 114501791294549364}
   m_Layer: 0
   m_Name: Slab
@@ -60,7 +59,6 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: 03c1f5f7c7d3e45e8a65a3e98afe9e66, type: 2}
   - {fileID: 2100000, guid: 17c2b6d3fe8dd7e459271d8c0728c34b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -124,16 +122,5 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 96ff2cc26f102af4591a4ac968efca3a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &114524104246273496
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1272925380034496}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0e1a0c2e04ee8483c85c59a9aec6f5f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

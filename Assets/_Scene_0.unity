@@ -209,8 +209,7 @@ MonoBehaviour:
 --- !u!114 &293983233
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: 95cddbb6b509f4deab55085c4dea491d,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 293983230}
   m_Enabled: 1
@@ -411,8 +410,7 @@ MonoBehaviour:
 --- !u!114 &356259549
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: c33272821942344c58eaa67b741d52e9,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 356259546}
   m_Enabled: 1
@@ -545,8 +543,7 @@ MonoBehaviour:
 --- !u!114 &410634878
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: 95cddbb6b509f4deab55085c4dea491d,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 410634875}
   m_Enabled: 1
@@ -751,8 +748,7 @@ MonoBehaviour:
 --- !u!114 &521234237
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: c33272821942344c58eaa67b741d52e9,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 521234234}
   m_Enabled: 1
@@ -1126,8 +1122,7 @@ MonoBehaviour:
 --- !u!114 &748698405
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: c33272821942344c58eaa67b741d52e9,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 748698402}
   m_Enabled: 1
@@ -1335,8 +1330,7 @@ MonoBehaviour:
 --- !u!114 &970931651
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: c33272821942344c58eaa67b741d52e9,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 970931648}
   m_Enabled: 1
@@ -1592,8 +1586,7 @@ MonoBehaviour:
 --- !u!114 &1037045863
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: 95cddbb6b509f4deab55085c4dea491d,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1037045860}
   m_Enabled: 1
@@ -1726,8 +1719,7 @@ MonoBehaviour:
 --- !u!114 &1111888631
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: 95cddbb6b509f4deab55085c4dea491d,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1111888628}
   m_Enabled: 1
@@ -1860,8 +1852,7 @@ MonoBehaviour:
 --- !u!114 &1129546333
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: 95cddbb6b509f4deab55085c4dea491d,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1129546330}
   m_Enabled: 1
@@ -2088,8 +2079,7 @@ MonoBehaviour:
 --- !u!114 &1345814215
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: c33272821942344c58eaa67b741d52e9,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1345814212}
   m_Enabled: 1
@@ -2385,8 +2375,7 @@ MonoBehaviour:
 --- !u!114 &1393589736
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: c33272821942344c58eaa67b741d52e9,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1393589733}
   m_Enabled: 1
@@ -2519,8 +2508,7 @@ MonoBehaviour:
 --- !u!114 &1439099449
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: 95cddbb6b509f4deab55085c4dea491d,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1439099446}
   m_Enabled: 1
@@ -2653,8 +2641,7 @@ MonoBehaviour:
 --- !u!114 &1450874164
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: 95cddbb6b509f4deab55085c4dea491d,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1450874161}
   m_Enabled: 1
@@ -2787,8 +2774,7 @@ MonoBehaviour:
 --- !u!114 &1538431874
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: 95cddbb6b509f4deab55085c4dea491d,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1538431871}
   m_Enabled: 1
@@ -3085,7 +3071,7 @@ LineRenderer:
   - {x: 0, y: 0, z: 1}
   m_Parameters:
     serializedVersion: 2
-    widthMultiplier: 0.25
+    widthMultiplier: 0.1
     widthCurve:
       serializedVersion: 2
       m_Curve:
@@ -3096,8 +3082,8 @@ LineRenderer:
         outSlope: 0
         tangentMode: 0
         weightedMode: 0
-        inWeight: 0.33333334
-        outWeight: 0.33333334
+        inWeight: 0
+        outWeight: 0
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
@@ -3189,6 +3175,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 16
       objectReference: {fileID: 0}
+    - target: {fileID: 65736788327317706, guid: cdb86c83279fc5a44addb3a2d00ac469,
+        type: 2}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cdb86c83279fc5a44addb3a2d00ac469, type: 2}
   m_IsPrefabAsset: 0
@@ -3248,8 +3239,7 @@ MonoBehaviour:
 --- !u!114 &1863474466
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: 95cddbb6b509f4deab55085c4dea491d,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1863474463}
   m_Enabled: 1
@@ -3563,8 +3553,7 @@ MonoBehaviour:
 --- !u!114 &2027469810
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 114524104246273496, guid: 95cddbb6b509f4deab55085c4dea491d,
-    type: 2}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2027469807}
   m_Enabled: 1
